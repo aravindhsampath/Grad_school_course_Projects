@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MenuSpec>
+
+<words>
+  <wordsNumber>3</wordsNumber>
+  <wordsX>300</wordsX>
+  <wordsY>100</wordsY>
+  <wordsSpaceX>70</wordsSpaceX>
+  <wordsSpaceY>50</wordsSpaceY>
+  <words0>Start Game</words0>
+  <words1>Help</words1>
+  <words2>Exit</words2>
+</words>
+
+<clickoff>
+  <clickoffFile>images/menubar.png</clickoffFile>
+  <clickoffWidth>300</clickoffWidth>
+  <clickoffHeight>40</clickoffHeight>
+  <clickoffSrcX>0</clickoffSrcX>
+  <clickoffSrcY>0</clickoffSrcY>
+  <clickoffTransparency>true</clickoffTransparency>
+</clickoff>
+
+<clickon>
+  <clickonFile>images/menubaron.png</clickonFile>
+  <clickonWidth>300</clickonWidth>
+  <clickonHeight>40</clickonHeight>
+  <clickonSrcX>0</clickonSrcX>
+  <clickonSrcY>0</clickonSrcY>
+  <clickonTransparency>false</clickonTransparency>
+</clickon>
+
+</MenuSpec>

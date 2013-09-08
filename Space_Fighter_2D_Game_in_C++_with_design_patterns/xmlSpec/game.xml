@@ -1,0 +1,209 @@
+<?xml version = "1.0"?>
+
+<GameData>
+
+<view>
+  <viewWidth>1280</viewWidth>
+  <viewHeight>768</viewHeight>
+</view>
+
+<screen>
+  <worldWidth>15280</worldWidth>
+  <worldHeight>768</worldHeight>
+</screen>
+
+<Font name="font">
+  <font>font/pirulen.ttf</font>
+  <fontSize>14</fontSize>
+</Font>
+<maxStringSize>50</maxStringSize>
+
+<background>
+  <backgroundFile>images/bg.png</backgroundFile>
+  <backgroundWidth>12800</backgroundWidth>
+  <backgroundHeight>768</backgroundHeight>
+  <backgroundRed>0</backgroundRed>
+  <backgroundGreen>0</backgroundGreen>
+  <backgroundBlue>0</backgroundBlue>
+</background>
+<mbackground>
+  <mbackgroundFile>images/bgspace1.png</mbackgroundFile>
+  <mbackgroundWidth>1280</mbackgroundWidth>
+  <mbackgroundHeight>768</mbackgroundHeight>
+  <mbackgroundRed>0</mbackgroundRed>
+  <mbackgroundGreen>0</mbackgroundGreen>
+  <mbackgroundBlue>0</mbackgroundBlue>
+</mbackground>
+
+<parallax1>
+  <parallax1File>images/parallax1.png</parallax1File>
+  <parallax1Width>1280</parallax1Width>
+  <parallax1Height>768</parallax1Height>
+</parallax1>
+<parallax2>
+  <parallax2File>images/parallax2.png</parallax2File>
+  <parallax2Width>1280</parallax2Width>
+  <parallax2Height>768</parallax2Height>
+</parallax2>
+<parallax3>
+  <parallax3File>images/parallax3.png</parallax3File>
+  <parallax3Width>1280</parallax3Width>
+  <parallax3Height>768</parallax3Height>
+</parallax3>
+<parallax4>
+  <parallax4File>images/parallax4.png</parallax4File>
+  <parallax4Width>1280</parallax4Width>
+  <parallax4Height>768</parallax4Height>
+</parallax4>
+<parallax5>
+  <parallax5File>images/parallax5.png</parallax5File>
+  <parallax5Width>1280</parallax5Width>
+  <parallax5Height>768</parallax5Height>
+</parallax5>
+
+<lsystem>
+  <bush>xmlSpec/bush.xml</bush>
+  <lsystemSrcX>0</lsystemSrcX>
+  <lsystemSrcY>0</lsystemSrcY>
+  <lsystemWidth>640</lsystemWidth>
+  <lsystemHeight>480</lsystemHeight>
+  <lsystemLoc lsystemX="20" lsystemY="200"/>
+  <lsystemFile>xmlSpec/bush.xml</lsystemFile>
+  <lsystemSpeed lsystemXspeed="0" lsystemYspeed="0"/>
+  <lsystemMaxSpeed lsystemMaxXspeed="400" lsystemMaxYspeed="0"/>
+  <lsystemTransparency>true</lsystemTransparency>
+</lsystem>
+
+<redorb>
+  <redorbFile>images/redball.bmp</redorbFile>
+  <redorbSrcX>0</redorbSrcX>
+  <redorbSrcY>0</redorbSrcY>
+  <redorbWidth>32</redorbWidth>
+  <redorbHeight>32</redorbHeight>
+  <redorbLoc redorbX="10" redorbY="10"/>
+  <redorbSpeed redorbXspeed="250" redorbYspeed="250"/>
+  <redorbMaxSpeed redorbMaxXspeed="350" redorbMaxYspeed="300"/>
+  <redorbTransparency>true</redorbTransparency>
+</redorb>
+
+<bullet>
+  <bulletFile>images/bullet.bmp</bulletFile>
+  <bulletSrcX>0</bulletSrcX>
+  <bulletSrcY>0</bulletSrcY>
+  <bulletWidth>32</bulletWidth>
+  <bulletHeight>32</bulletHeight>
+  <bulletLoc bulletX="400" bulletY="400"/>
+  <bulletSpeed bulletXspeed="300" bulletYspeed="0"/>
+  <bulletMaxSpeed bulletMaxXspeed="400" bulletMaxYspeed="0"/>
+  <bulletTransparency>true</bulletTransparency>
+</bullet>
+<aibullet>
+  <aibulletFile>images/star32.png</aibulletFile>
+  <aibulletSrcX>0</aibulletSrcX>
+  <aibulletSrcY>0</aibulletSrcY>
+  <aibulletWidth>32</aibulletWidth>
+  <aibulletHeight>32</aibulletHeight>
+  <aibulletLoc aibulletX="400" aibulletY="400"/>
+  <aibulletSpeed aibulletXspeed="300" aibulletYspeed="0"/>
+  <aibulletMaxSpeed aibulletMaxXspeed="400" aibulletMaxYspeed="0"/>
+  <aibulletTransparency>true</aibulletTransparency>
+</aibullet>
+
+<asteroidChunk>
+  <asteroidChunkFile>images/redball.bmp</asteroidChunkFile>
+  <asteroidChunkSrcX>0</asteroidChunkSrcX>
+  <asteroidChunkSrcY>0</asteroidChunkSrcY>
+  <asteroidChunkWidth>32</asteroidChunkWidth>
+  <asteroidChunkHeight>32</asteroidChunkHeight>
+  <asteroidChunkLoc asteroidChunkX="10" asteroidChunkY="10"/>
+  <asteroidChunkSpeed asteroidChunkXspeed="250" asteroidChunkYspeed="250"/>
+  <asteroidChunkMaxSpeed asteroidChunkMaxXspeed="350" asteroidChunkMaxYspeed="300"/>
+  <asteroidChunkTransparency>true</asteroidChunkTransparency>
+  <asteroidChunkSize>9</asteroidChunkSize>
+  <asteroidChunkDistance>200</asteroidChunkDistance>
+</asteroidChunk>
+<opponentChunk>
+  <opponentChunkFile>images/redball.bmp</opponentChunkFile>
+  <opponentChunkSrcX>0</opponentChunkSrcX>
+  <opponentChunkSrcY>0</opponentChunkSrcY>
+  <opponentChunkWidth>32</opponentChunkWidth>
+  <opponentChunkHeight>32</opponentChunkHeight>
+  <opponentChunkLoc opponentChunkX="10" opponentChunkY="10"/>
+  <opponentChunkSpeed opponentChunkXspeed="250" opponentChunkYspeed="250"/>
+  <opponentChunkMaxSpeed opponentChunkMaxXspeed="350" opponentChunkMaxYspeed="300"/>
+  <opponentChunkTransparency>true</opponentChunkTransparency>
+  <opponentChunkSize>9</opponentChunkSize>
+  <opponentChunkDistance>200</opponentChunkDistance>
+</opponentChunk>
+
+<player1>
+  <player1numberOfFrames>4</player1numberOfFrames>
+  <player1frameInterval>8</player1frameInterval>
+  <player1Width>850</player1Width>
+  <player1Height>114</player1Height>
+  <player1SrcX>0</player1SrcX>
+  <player1SrcY>0</player1SrcY>
+  <player1File>images/p1.bmp</player1File>
+  <player1Loc player1X="10" player1Y="270"/>
+  <player1Speed player1Xspeed="100" player1Yspeed="0"/>
+  <player1MaxSpeed player1MaxXspeed="300" player1MaxYspeed="0"/>
+  <player1Transparency>true</player1Transparency>
+</player1>
+
+<asteroid>
+  <asteroidnumberOfFrames>2</asteroidnumberOfFrames>
+  <asteroidframeInterval>18</asteroidframeInterval>
+  <asteroidWidth>66</asteroidWidth>
+  <asteroidHeight>34</asteroidHeight>
+  <asteroidSrcX>0</asteroidSrcX>
+  <asteroidSrcY>0</asteroidSrcY>
+  <asteroidFile>images/asteroid.bmp</asteroidFile>
+  <asteroidLoc asteroidX="100" asteroidY="225"/>
+  <asteroidSpeed asteroidXspeed="348" asteroidYspeed="268"/>
+  <asteroidMaxSpeed asteroidMaxXspeed="300" asteroidMaxYspeed="300"/>
+  <asteroidTransparency>true</asteroidTransparency>
+</asteroid>
+
+<ai>
+  <ainumberOfFrames>1</ainumberOfFrames>
+  <aiframeInterval>18</aiframeInterval>
+  <aiWidth>500</aiWidth>
+  <aiHeight>500</aiHeight>
+  <aiSrcX>0</aiSrcX>
+  <aiSrcY>0</aiSrcY>
+  <aiFile>images/ai1.png</aiFile>
+  <aiLoc aiX="1800" aiY="50"/>
+  <aiSpeed aiXspeed="0" aiYspeed="0"/>
+  <aiMaxSpeed aiMaxXspeed="300" aiMaxYspeed="300"/>
+  <aiTransparency>true</aiTransparency>
+</ai>
+
+<end>
+  <endnumberOfFrames>1</endnumberOfFrames>
+  <endframeInterval>18</endframeInterval>
+  <endWidth>432</endWidth>
+  <endHeight>768</endHeight>
+  <endSrcX>14840</endSrcX>
+  <endSrcY>0</endSrcY>
+  <endFile>images/end.png</endFile>
+  <endLoc endX="14840" endY="0"/>
+  <endSpeed endXspeed="0" endYspeed="0"/>
+  <endMaxSpeed endMaxXspeed="300" endMaxYspeed="300"/>
+  <endTransparency>true</endTransparency>
+</end>
+
+<opponent>
+  <opponentnumberOfFrames>2</opponentnumberOfFrames>
+  <opponentframeInterval>18</opponentframeInterval>
+  <opponentWidth>300</opponentWidth>
+  <opponentHeight>82</opponentHeight>
+  <opponentSrcX>0</opponentSrcX>
+  <opponentSrcY>0</opponentSrcY>
+  <opponentFile>images/opponent.png</opponentFile>
+  <opponentLoc opponentX="100" opponentY="225"/>
+  <opponentSpeed opponentXspeed="348" opponentYspeed="268"/>
+  <opponentMaxSpeed opponentMaxXspeed="300" opponentMaxYspeed="300"/>
+  <opponentTransparency>true</opponentTransparency>
+</opponent>
+
+</GameData>

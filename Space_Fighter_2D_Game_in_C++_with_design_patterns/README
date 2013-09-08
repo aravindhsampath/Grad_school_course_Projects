@@ -1,0 +1,53 @@
+Name: Aravindh Sampathkumar	
+Email: aravins@g.clemson.edu
+Date: 13 - Dec - 2012
+
+Game :    Galaxy space shooter
+          --------------------
+Description:
+-------------
+
+Galaxy is a 2D space shooter game that I have developed as part of the CPSC 870 course at Clemson University instructed by Dr. Brian Malloy.
+
+Technical details:
+------------------
+
+* Game entirely developed in C++
+* Uses the Simple DirectMedia Layer (SDL) Libraries
+* showcases the design patterns-  singleton,Abstract Factory and composition.
+* Utilizes Inheritance.
+* Utilizes XML Parsing for all configurable parameters
+
+2D Game development concepts:
+-----------------------------
+
+* Background and Images
+* Single frame sprites and their movement
+* Procedural sprite generation using L-systems
+* Multi Frame sprites and their animation
+* Parallax Scrolling.
+* Collision detection.
+* Projectiles.
+* Explosions.
+* Artificial Intelligence concepts
+* Keyboard control of a player sprite.
+* Scoring and record maintenance
+* Menus and navigation
+* Background sound control.
+
+Game details:
+----------------
+The basic idea of this game is to recreate the old-fashioned 2D space shooter logic.The multi frame player is controlled by the user using the keyboard.There are asteroids and UFOs floating around in space.The player has the capability to shoot and is expected to shoot the asteroids and UFOs to score points.There is no limitation on the bullets. The player should reach the end of the level without colliding on any asteroids.However, Colliding with UFOs is allowed.
+
+There will be a simple space pocket which would automatically fire up scorable stars when the player enters into the pocket.
+
+
+To change the XML file and the animation:
+
+The <background> tag is used to specify the background image.
+<view> can be used to specify the size of the view
+<world> can be used to specify the size of the world
+
+<player1> specifies the parameters required for the animated player.speed and position can be altered.
+
+

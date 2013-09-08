@@ -1,0 +1,3468 @@
+in the constructor of Menu
+in play method of menuManager
+deleting mfsprite
+after manager initialization
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+there is no soundcard
+in sprite randomize
+10810
+in sprite randomize
+8586
+in sprite randomize
+14301
+in sprite randomize
+5035
+in sprite randomize
+13021
+in sprite randomize
+8277
+in sprite randomize
+11336
+in sprite randomize
+5555
+in sprite randomize
+3695
+in sprite randomize
+8223
+in sprite randomize
+14240
+in sprite randomize
+250
+in sprite randomize
+9803
+in sprite randomize
+10453
+in sprite randomize
+604
+in sprite randomize
+2185
+in sprite randomize
+13158
+in sprite randomize
+249
+in sprite randomize
+5991
+in sprite randomize
+3056
+in sprite randomize
+11010
+in sprite randomize
+13502
+in sprite randomize
+8313
+in sprite randomize
+1741
+in sprite randomize
+10597
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+in draw method
+Cleaning up sounds ...
+Clean up took 0 ticks
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+230
+deleting mfsprite
+menu manager
+Blocking the view ...
