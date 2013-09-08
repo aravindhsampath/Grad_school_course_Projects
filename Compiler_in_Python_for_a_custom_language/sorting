@@ -1,0 +1,38 @@
+##+13    print the symbolic 4-tuples, etc. ##
+PROGRAM sort
+DECLARE
+    INTEGER array 5;
+    INTEGER temp;
+    INTEGER ctr1;
+    INTEGER ctr2;
+    
+END
+MAIN
+    array[0] <- 9;
+    array[1] <- -2;
+    array[2] <- 1;
+    array[3] <- -5;
+    array[4] <- 3;
+    ctr1 <- 0;
+    ctr2 <- 0;
+    WHILE (ctr1 < 5 ) DO
+        WHILE (ctr2 < 4-ctr1) DO
+            IF (array[ctr2] > array[ctr2+1]) THEN
+                 temp <- array[ctr2];
+                 array[ctr2] <- array[ctr2+1];
+                 array[ctr2+1] <- temp;
+            END; 
+            ctr2<- ctr2+1;
+        END;
+        ctr2 <- 0; 
+        ctr1 <- ctr1+1;
+    END;
+       
+    ctr1 <- 0;
+    OUTPUT "Element  ==> %d", array[0];
+    OUTPUT "Element  ==> %d", array[1];
+    OUTPUT "Element  ==> %d", array[2];
+    OUTPUT "Element  ==> %d", array[3];
+    OUTPUT "Element  ==> %d", array[4];
+END
+END

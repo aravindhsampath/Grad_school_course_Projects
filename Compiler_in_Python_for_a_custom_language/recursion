@@ -1,0 +1,21 @@
+##+13    print the symbolic 4-tuples, etc. ##
+PROGRAM recursion1  
+  DECLARE
+      INTEGER a ;   
+  END
+
+  PROCEDURE recursion{REFERENCE INTEGER a}
+      OUTPUT "value of a inside recursive function is %d ", a;
+      a <- a - 1;
+      IF (a>1) THEN
+             CALL recursion{REFERENCE a};
+      END;
+  END  
+
+  MAIN
+    a <- 5;
+    OUTPUT "value of a before call in MAIN is %d ", a;
+    CALL recursion{REFERENCE a} ;   
+    OUTPUT "value of a after call in MAIN is %d ", a;   
+  END   
+END 

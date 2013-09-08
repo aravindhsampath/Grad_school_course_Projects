@@ -1,0 +1,19 @@
+## +13  ##
+PROGRAM callbyvalue
+
+DECLARE
+     INTEGER a ;
+END
+
+PROCEDURE cvalue{VALUE INTEGER a}
+     a <- 15;
+     OUTPUT "Value of a inside call is %d",a;
+END
+
+MAIN
+     a <- 10;
+     OUTPUT "Value of a before call is %d", a;
+     CALL cvalue{VALUE a};
+     OUTPUT "Value of a after call is %d", a;
+END
+END
