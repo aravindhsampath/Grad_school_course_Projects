@@ -7,4 +7,4 @@ Though the idea was entirely Dr.G's, It was implemented by myself and Vignesh Se
 
 Sample visualizations using the data obtained from the crawler :
 
-![vis1](username.github.com/repository/img/image.jpg) Basic_Web_Crawler_Python_681_Security_Projects/Clemson_1.png
+![vis1](Clemson_1.png) 
